@@ -23,8 +23,8 @@
            sync-c="true"
            sync-j="4" />
 		   
-  <remote  name="bitbucketP"
-           fetch="ssh://git@bitbucket.org" />
+  <remote  name="bitbucket"
+           fetch="https://bitbucket.org/" />
 
   <!-- START Next-OS -->
   <project path="build" name="Next-OS/android_build" remote="github" revision="mm" >
