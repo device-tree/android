@@ -53,7 +53,7 @@
   <!-- END ARTER97 -->
 
   <!-- BEGIN BROKEN-OS -->
-  <project path="external/chromium-webview" name="broken/external_chromium-webview" remote="github" groups="pdk" />
+  <project path="external/chromium-webview" name="BrokenROM/external_chromium-webview" remote="github" groups="pdk" />
   <!-- END BROKEN-OS -->
 
   <!-- BEGIN AOSP -->
