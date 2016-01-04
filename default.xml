@@ -559,7 +559,9 @@
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9-kernel" name="UBERTC/aarch64-linux-android-4.9-kernel" remote="bitbucket" revision="master" />
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="UBERTC/aarch64-linux-android-4.9" remote="bitbucket" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="UBERTC/arm-eabi-4.9" remote="bitbucket" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-5.2" name="UBERTC/arm-eabi-5.2" remote="bitbucket" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="UBERTC/arm-linux-androideabi-4.9" remote="bitbucket" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-5.2" name="UBERTC/arm-linux-androideabi-5.2" remote="bitbucket" revision="master" />
   <!-- END UBERTC -->
 
 </manifest>
